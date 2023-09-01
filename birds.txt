@@ -4,3 +4,14 @@ Birds
 parrot
 sparrow
 crow
+
+
+
+Animals
+
+
+cow
+ox
+buffalow
+bull
+cattle
